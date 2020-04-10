@@ -1,0 +1,6 @@
+Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
+
+Input: "Hello"
+Output: "hello"
+
+Note: Most languages support lowercase conversion for a string data type. However, that is certainly not the purpose of the problem. Think about how the implementation of the lowercase function call can be done easily.
