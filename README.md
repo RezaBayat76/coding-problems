@@ -10,3 +10,4 @@ In this repo I put all coding problem which I face.
 	- fibonacci number
 	- unique email addresses
 	- merge two binary trees
+	- reverse linked list
