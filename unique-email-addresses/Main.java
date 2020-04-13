@@ -24,6 +24,7 @@ public class Main {
 
         return uniqueEmails.size();
     }
+//    ["test.email+alex@leetcode.com","test.email.leet+alex@code.com"]
 
     public static String actualEmail(String email) {
         String[] emailSplit = email.split("@");
@@ -41,6 +42,7 @@ public class Main {
             sb.append(c);
         }
 
+        sb.append('@');
         sb.append(emailSplit[1]);
 
         return sb.toString();
