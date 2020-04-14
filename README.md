@@ -17,3 +17,4 @@ In this repo I put all coding problem which I face.
 	- remove duplicates from sorted list
 	- move zeroes
 	- valid parentheses
+	- path sum
