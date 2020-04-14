@@ -13,4 +13,5 @@ In this repo I put all coding problem which I face.
 	- reverse linked list
 	- find words that can be formed by characters
 	- reverse only letters
-	maximum depth of binary tree
+	- maximum depth of binary tree
+	- remove duplicates from sorted list
