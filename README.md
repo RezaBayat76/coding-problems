@@ -15,3 +15,4 @@ In this repo I put all coding problem which I face.
 	- reverse only letters
 	- maximum depth of binary tree
 	- remove duplicates from sorted list
+	- move zeroes
