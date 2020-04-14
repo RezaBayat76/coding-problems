@@ -16,3 +16,4 @@ In this repo I put all coding problem which I face.
 	- maximum depth of binary tree
 	- remove duplicates from sorted list
 	- move zeroes
+	- valid parentheses
