@@ -19,3 +19,4 @@ In this repo I put all coding problem which I face.
 	- valid parentheses
 	- path sum
 	- linked list cycle
+	- two sum
