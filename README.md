@@ -23,3 +23,4 @@ In this repo I put all coding problem which I face.
 	- minimum depth of binary tree
 	- best time to buy and sell stock
 	- length of last word
+	- kth smallest element in a bst
