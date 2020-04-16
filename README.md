@@ -25,3 +25,4 @@ In this repo I put all coding problem which I face.
 	- length of last word
 	- kth smallest element in a bst
 	- intersection of two linke lists
+	- missing number
